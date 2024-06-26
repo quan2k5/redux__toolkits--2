@@ -1,0 +1,19 @@
+{
+    "works": [
+      {
+        "id": 1,
+        "name": "làm bài tập",
+        "status": false
+      },
+      {
+        "id": 2,
+        "name": "rửa bát",
+        "status": true
+      },
+      {
+        "id": 3,
+        "name": "nấu cơm",
+        "status": false
+      }
+    ]
+  }
